@@ -13,6 +13,13 @@ body {
     font-size: 20px;
     color: #111;
   }
+  .parag:first-letter {
+    float: left;
+    font-size: 45px;
+    line-height: 1;
+    font-weight: bold;
+    margin-right: 9px;
+}
   .person {
     border: 10px solid transparent;
     margin-bottom: 25px;

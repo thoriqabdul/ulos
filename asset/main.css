@@ -26,6 +26,13 @@ body {
   .person:hover {
     border-color: #f1f1f1;
   }
+  p:first-letter {
+    float: left;
+    font-size: 45px;
+    line-height: 1;
+    font-weight: bold;
+    margin-right: 9px;
+}
   .jumbotron {
       background-image: url('../asset/image/dasdsada.jpg');
       background-size: cover;
